@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<question>
+    	<title>Quel sont les appareils obligatoires en cabine?</title>
+    	<answer correct="true">Un ARI</answer>
+    	<answer>Un casque</answer>
+    	<answer>Des gants</answer>
+    	<answer>Une lampe torche</answer>
+	</question>
+	<question>
+    	<title>Qui est responsable du déplacement d’une charge?</title>
+    	<answer>Le pontier</answer>
+    	<answer correct="true">Le chef de manoeuvre</answer>
+    	<answer>L'élingueur</answer>
+	</question>
+	<question>
+    	<title>Comment reconnaît on le chef de manœuvre ?</title>
+    	<answer correct="true">Il porte un baudrier ou chasuble</answer>
+    	<answer>Il n’a pas de casque</answer>
+    	<answer>Il porte une TEV</answer>
+    	<answer>Il porte une surtenue bleue</answer>
+	</question>
+	<question>
+    	<title>Comment acquitter une panne survenue lors du levage (10t)?</title>
+    	<answer correct="true">En poutre par acquittement du défaut au bouton « levage 10t » s’il est allumé</answer>
+    	<answer>Appuyer sur l’ensemble des voyants allumés</answer>
+    	<answer>Arrêter et redémarrer au poste de pilotage</answer>
+    	<answer>Déplacer l’axe du pont</answer>
+    	<answer>Déplacer l’axe du chariot</answer>
+	</question>
+</root>
